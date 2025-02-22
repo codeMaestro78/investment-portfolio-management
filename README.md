@@ -57,8 +57,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/investment-portfolio-management.git
-   cd investment-portfolio-management
+   git clone  https://github.com/codeMaestro78/investment-portfolio-management.git
+   cd Invest_IQ_Analytics
    ```
 2. Configure the MySQL database:
    - Create a database: `CREATE DATABASE investment_db;`
