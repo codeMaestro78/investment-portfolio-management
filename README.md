@@ -32,26 +32,12 @@ The **Investment Portfolio Management System** is a comprehensive application de
   - Store and retrieve investment records using MySQL.
   - Secure and optimize database queries for fast performance.
 
-## Technologies Used
 
-- **Backend:** Python (Flask/Django if applicable)
-- **Database:** MySQL
-- **Data Visualization:** Matplotlib
-- **APIs:** Real-time stock/mutual fund data (if applicable)
-- **Frontend (Optional):** React, HTML, CSS (if there's a UI component)
 
 ## Installation
 
 ### Prerequisites
 
-Ensure you have the following installed:
-
-- Python 3.x
-- MySQL Server
-- Required Python libraries:
-  ```bash
-  pip install mysql-connector-python matplotlib pandas flask
-  ```
 
 ### Setup Instructions
 
@@ -60,19 +46,6 @@ Ensure you have the following installed:
    git clone  https://github.com/codeMaestro78/investment-portfolio-management.git
    cd Invest_IQ_Analytics
    ```
-2. Configure the MySQL database:
-   - Create a database: `CREATE DATABASE investment_db;`
-   - Update database credentials in `config.py` (if applicable).
-3. Run the application:
-   ```bash
-   python main.py
-   ```
-4. (Optional) Run a frontend application (if applicable):
-   ```bash
-   npm install
-   npm start
-   ```
-
 ## Usage
 
 - Enter investment details for stocks, real estate, or mutual funds.
@@ -83,9 +56,6 @@ Ensure you have the following installed:
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
